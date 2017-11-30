@@ -13,6 +13,6 @@ public class hdfdgf {
 		for (int I=1 ; I<=10 ; I++) {
 			soma +=I;
 	}
-		System.out.println("O total é" + soma);
+		System.out.println("O total Ã©" + soma);
 	}
 }
