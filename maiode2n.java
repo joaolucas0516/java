@@ -15,7 +15,7 @@ public static void main(String[] args) {
 	else if (numero_2 > numero_1) 
 		System.out.print("Maior Numero = " + numero_2);
 		else
-	System.out.print("Os numeros s„o iguais!");
+	System.out.print("Os numeros s√£o iguais!");
 }
 }
 
